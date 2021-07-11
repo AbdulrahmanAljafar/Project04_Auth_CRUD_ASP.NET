@@ -9898,11 +9898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\TestPodcastWebsite\\TestPodcastWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\C#2\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\TestPodcastWebsite\\TestPodcastWebsite.csproj",
       "projectName": "TestPodcastWebsite",
-      "projectPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\TestPodcastWebsite\\TestPodcastWebsite.csproj",
+      "projectPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\C#2\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\TestPodcastWebsite\\TestPodcastWebsite.csproj",
       "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\TestPodcastWebsite\\obj\\",
+      "outputPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\C#2\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\TestPodcastWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9919,8 +9919,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\Podcast-Website\\Podcast-Website.csproj": {
-              "projectPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\Podcast-Website\\Podcast-Website.csproj"
+            "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\C#2\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\Podcast-Website\\Podcast-Website.csproj": {
+              "projectPath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\C#2\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\Podcast-Website\\Podcast-Website.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WevgBMfF9lLmECOCFxNwpqhKnwFUuUnmJ+csdmTbLq7bU3KGbU0fslfB+ZpjPxb33LBTBRdFshqNaF/9KyGDSg==",
+  "dgSpecHash": "CPL/KxM2/K05NWia1OoaHHBMFATTDnzi1NsYAvspnEmq/Ut4pDgc53qDDstqM7xAZosEEtWOSsP5KEEC2hd7hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\.net\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\Podcast-Website\\Podcast-Website.csproj",
+  "projectFilePath": "C:\\Users\\abdul\\OneDrive\\سطح المكتب\\C#2\\Project04_Auth_CRUD_ASP.NET\\Podcast-Website\\Podcast-Website\\Podcast-Website.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdul\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",

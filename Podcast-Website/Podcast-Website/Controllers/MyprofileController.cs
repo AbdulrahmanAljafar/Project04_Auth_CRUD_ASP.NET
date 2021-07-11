@@ -24,10 +24,11 @@ namespace Podcast_Website.Controllers
         [Authorize]
         public IActionResult Index()
         {
-            
+
             ViewData["userid"] = _userManager.GetUserId(HttpContext.User);
-            var Profiles = _db.Profiles.ToList();
-            var Podcasts = _db.Podcasts.ToList();
+            var v = _userManager.GetUserId(HttpContext.User);
+            var Profiles = _db.Profiles.FirstOrDefault(a => a.UserId == v);
+            var Podcasts = _db.Podcasts.Where(a => a.ProfileId == Profiles.Id).ToList();
             ViewData["Profiles"] = Profiles;
             ViewData["Podcasts"] = Podcasts;
             return View();
